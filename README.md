@@ -1,5 +1,5 @@
 # Letter-Recognition-through-Ensemble-Classification
-> Exploratory data analysis is done on the data to do the Data Preprocessing if needed.
+1) Exploratory data analysis is done on the data to do the Data Preprocessing if needed.
 > Classes/Labels distribution in the data is visualized by using PCA.
 > Hyper parameter Tuning is done on various Classification algorithms (Decision Tree, KNN, Naive Bayes, Linear and Non-Linear SVM).
 > Error Plots and Heat maps are generated to validate the performances of Classifiers with various parameter values to determine the optimal parameter configuration.
