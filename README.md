@@ -8,4 +8,4 @@
 <li> Error Plots are visulaized to validate the performance of Ensemble Classifiers to find the optimal no.of estimators.</li>
 <li> Two tail Pair T-test is conducted to find the statistical difference between the Classifier Performances/Accuracies. </li>
 <li> Time Plots are generated to find the quick learner which is efficient in every manner and can have the best performance among all          classifiers.</li>
-<li> Specificity and Sensitivity of the classifier is also validated along with Time complexity and overall Accuracies to determine the          best Hypothesis. </li>
+<li> Specificity and Sensitivity of the classifier is also validated along with Time complexity to determine the best Hypothesis. </li>
